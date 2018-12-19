@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Password Togle</string>
+    <string name="title">Belajar Membuat Show Hide Pasword</string>
+    <string name="password">password</string>
+    <string name="model1">Default Pasword</string>
+    <string name="model2">Menggunakan color tint</string>
+    <string name="model3">Custom Icon</string>
+    <string name="model4">Deafult android</string>
+    <string name="model5">Chech Box</string>
+    <string name="showpasword">show password</string>
+</resources>
